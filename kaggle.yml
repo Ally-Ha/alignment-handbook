@@ -1,0 +1,10 @@
+project: thesis-run
+kernel_slug: allyha/thesis-run
+code_file: Thesis_run.ipynb
+accelerator: none
+internet: false
+privacy: private
+datasets: []
+competitions: []
+outputs:
+  download_to: .kaggle-outputs/
